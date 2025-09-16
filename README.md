@@ -1,6 +1,6 @@
 # Welcome to the Bungeon
 
-A game built using JavaScript for a college assignment.
+A game built using JavaScript for a college assignment to solidate JavaScript knowledge.
 
 Features an implementation of wave function collapse.
 
